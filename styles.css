@@ -1,0 +1,22 @@
+div {
+	text-align: center;
+}
+
+.Supermarket {
+  color: Black;
+  stroke-linecap: black;
+  text-decoration: underline;
+  
+}
+
+.Hardware {
+  color: brown;
+  stroke-linecap: black;
+  text-decoration: underline;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
